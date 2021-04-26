@@ -1,0 +1,5 @@
+logs/*
+.vscode
+.githooks
+.gitlab
+node_modules
